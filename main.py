@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import pickle as pk
 import numpy as np
+import sklearn
 from PIL import Image
 import warnings
 warnings.filterwarnings("ignore")

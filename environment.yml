@@ -1,0 +1,4 @@
+name: Webapp
+channels:
+  - defaults
+prefix: C:\Users\01abh\anaconda3\envs\Webapp
